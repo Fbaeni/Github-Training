@@ -1,5 +1,7 @@
 notest.txt
+
 README.md
+
 *#
-ignor*
-!ignoreme.txt
+ignor
+*!ignoreme.txt
