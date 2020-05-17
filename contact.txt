@@ -3,3 +3,7 @@ Mi amor +15147291957
 Priol Ethan (No phone to provid)
 Primael Ethan (No phone to provid)
 
+# Calling information
+	- Call the attached number
+	- if no number, call the first number 
+
