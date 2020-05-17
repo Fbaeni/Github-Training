@@ -8,3 +8,5 @@ Primael Ethan (No phone to provid)
 	- if no number, call the first number 
 
 # Information completed on 17/05/2020
+
+# Confilct possible corrected by rebase  vs a commit(Frtch and merge)
